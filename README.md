@@ -11,3 +11,7 @@ PlatformIO template for a random "ESP32-S3 Super Mini" product based on the ESP3
 * There is a regular LED and a WS2818 GRB LED on the board. Both are on GPIO 48, so use `digitalWrite`, etc. to use the 
   regular LED and `FastLED` to use the WS2818 GRB LED.
 * Change `monitor_speed` if desired. (default is baud rate of 115200)
+
+# Projeto de TCC 2 controlador remoto da mão robótica
+Projeto para controlar a mão robotica impressa em 3D
+utilizando esp-32 e esp-now
